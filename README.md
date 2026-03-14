@@ -49,25 +49,8 @@ A supportive and relevant response is generated.
 
 The conversation continues interactively.
 
-Installation & Setup
 
-Clone the repository
 
-git clone https://github.com/your-username/your-repository-name.git
-
-Navigate to the project folder
-
-cd your-repository-name
-
-Install dependencies
-
-npm install
-
-Run the application
-
-npm start
-
-Open the application in your browser.
 
 Future Improvements
 
